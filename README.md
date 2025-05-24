@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate Full-Stack Developer with expert
 ## Skills
 
 - **Languages**: JavaScript, TypeScript, PHP, SQL
-- **Frontend**: Angular, AngularJS, RxJS, Material UI
+- **Frontend**: React, Angular, AngularJS, RxJS, Material UI
 - **Backend**: CodeIgniter 3 (CI3), Laravel, Django
 - **Databases**: MySQL
 - **Tools & Technologies**: Git, RESTful APIs, CI/CD, Docker, Webpack
